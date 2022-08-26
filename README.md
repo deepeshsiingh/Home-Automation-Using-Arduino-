@@ -3,4 +3,4 @@ The main objective of this project is to develop a home automation system using 
 
 # Technology 
 
-Arduino  
+Arduino, Bluetooth Module  
